@@ -60,6 +60,7 @@ object CommandManager {
         registerCommand(ChatTokenCommand)
         registerCommand(ChatAdminCommand)
         registerCommand(TeleportCommand)
+        registerCommand(FentCommand)
     }
 
     /**
