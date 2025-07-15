@@ -2,7 +2,7 @@ package net.ccbluex.liquidbounce.features.command.commands
 
 import net.ccbluex.liquidbounce.features.command.Command
 
-object VClipCommand : Command("fent") {
+object FentCommand : Command("fent") {
     /**
      * Execute commands with provided [args]
      */
